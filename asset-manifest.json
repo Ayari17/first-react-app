@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/first-react-app/static/css/main.f23cc4f8.chunk.css",
+    "main.js": "/first-react-app/static/js/main.886f7549.chunk.js",
+    "main.js.map": "/first-react-app/static/js/main.886f7549.chunk.js.map",
+    "runtime-main.js": "/first-react-app/static/js/runtime-main.2e926a30.js",
+    "runtime-main.js.map": "/first-react-app/static/js/runtime-main.2e926a30.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/first-react-app/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.58fc17f1.chunk.js": "/first-react-app/static/js/2.58fc17f1.chunk.js",
+    "static/js/2.58fc17f1.chunk.js.map": "/first-react-app/static/js/2.58fc17f1.chunk.js.map",
+    "index.html": "/first-react-app/index.html",
+    "precache-manifest.2a190dbda6d6dc0bdbbd917251315f79.js": "/first-react-app/precache-manifest.2a190dbda6d6dc0bdbbd917251315f79.js",
+    "service-worker.js": "/first-react-app/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/first-react-app/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.f23cc4f8.chunk.css.map": "/first-react-app/static/css/main.f23cc4f8.chunk.css.map",
+    "static/js/2.58fc17f1.chunk.js.LICENSE.txt": "/first-react-app/static/js/2.58fc17f1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/first-react-app/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e926a30.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.58fc17f1.chunk.js",
+    "static/css/main.f23cc4f8.chunk.css",
+    "static/js/main.886f7549.chunk.js"
+  ]
+}
